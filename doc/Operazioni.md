@@ -2,7 +2,7 @@
 
 ### Home Page
 
-![image-20220323151400287](https://github.com/federicobonazzi-csw/documentation/blob/e38abcf812e4b6eca4b8a55be10e8b0162de6429/BPM%20img/home%20page.png)
+![image-20220323151400287](https://github.com/federicobonazzi-csw/federicobonazzicsw1.github.io/blob/c118a29a308e1b484b582ab205c7a62d946f42d9/BPM%20img/home%20page.png)
 
 La prima voce del menù Operazioni denominata Home Page consente di visualizzare la To Do List del BPM, dove sono annotate tutte le attività svolte e da svolgere dell’utente e non solo.
 
