@@ -11,7 +11,7 @@ Funzione che consente all’utente di poter modificare la propria password a men
 
 In questa sezione è possibile gestire le notifiche personali che il BPM invia via mail a fronte dei flussi in cui si è coinvolti:
 
-![image-20220323145650797](https://github.com/federicobonazzi-csw/documentation/blob/93ede05f6e38b8861e7c0903a352d517b1c22a7d/bpm3.png)
+![image-20220323145650797](https://github.com/federicobonazzi-csw/federicobonazzicsw1.github.io/blob/57d2f60ff33fbce50d02acc40c6ce51f708f8d3b/BPM%20img/bpm3.png)
 ### Account Mail
 
  
